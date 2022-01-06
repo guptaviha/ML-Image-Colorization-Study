@@ -14,5 +14,7 @@ Colorization of grayscale images is an ill-posed problem, with multiple correct 
 3. [ChromaGAN](https://github.com/pvitoria/ChromaGAN)
 
 
-All details and code are available in our Colab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guptaviha/ML-Image-Colorization-Study/blob/main/Comparison_of_Colorization_Models.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guptaviha/ML-Image-Colorization-Study/blob/main/Comparison_of_Colorization_Models.ipynb) All details and code are available in our Colab Notebook
+
+
 
