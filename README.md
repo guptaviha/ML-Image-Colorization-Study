@@ -8,8 +8,7 @@ We compare 3 models in detail:
 2. [Instance-Aware Image Colorization](https://github.com/ericsujw/InstColorization)
 3. [ChromaGAN](https://github.com/pvitoria/ChromaGAN)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/guptaviha/ML-Image-Colorization-Study/blob/main/Comparison_of_Colorization_Models.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guptaviha/ML-Image-Colorization-Study/blob/main/Comparison_of_Colorization_Models.ipynb)
 
 
 
