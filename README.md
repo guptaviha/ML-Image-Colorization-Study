@@ -19,4 +19,5 @@ Code and implementation details are available in our [Colab Notebook](https://co
 
 ## Team
 Disha Lamba - dl4747@nyu.edu
+
 Viha Gupta - vg2237@nyu.edu
